@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+subjects/
+rendu/
+rendu_old_*/
+traces/
+.exam_state.json
